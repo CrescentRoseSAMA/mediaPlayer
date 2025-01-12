@@ -1,0 +1,94 @@
+QLabel#label2 {
+
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: rgba(125, 125, 125, 100);
+}
+
+QLabel#label1 {
+
+    border-radius: 20px;
+}
+
+QPushButton#close {
+    border-image: url(":/ui/img/close.png");
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+QPushButton#close:pressed {
+    border-image: url(":/ui/img/close.png");
+    background-color: rgba(125, 125, 125, 100);
+
+}
+
+QPushButton#min {
+    border-image: url(":/ui/img/min.png");
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+QPushButton#min:pressed {
+    border-image: url(":/ui/img/min.png");
+    background-color: rgba(125, 125, 125, 100);
+}
+
+QPushButton#max {
+    border-image: url(":/ui/img/max.png");
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+QPushButton#max:pressed {
+    border-image: url(":/ui/img/max.png");
+    background-color: rgba(125, 125, 125, 100);
+}
+
+QPushButton#play {
+    border-image: url(":/ui/img/play.png");
+    border-radius: 5px;
+}
+
+QPushButton#play:pressed {
+    border-image: url(":/ui/img/play.png");
+    background-color: rgba(125, 125, 125, 100);
+}
+
+QPushButton#pause {
+    border-image: url(":/ui/img/pause.png");
+    border-radius: 5px;
+}
+
+QPushButton#pause:pressed {
+    border-image: url(":/ui/img/pause.png");
+    background-color: rgba(125, 125, 125, 100);
+}
+
+QPushButton#select {
+    border-image: url(":/ui/img/openvideo.png");
+    border-radius: 5px;
+
+}
+
+QPushButton#select:pressed {
+    border-image: url(":/ui/img/openvideo.png");
+    background-color: rgba(125, 125, 125, 100);
+}
+
+QFrame#titleBar {
+    background-color: rgba(125, 125, 125, 100);
+    border-radius: 5px;
+    border: none;
+}
+
+QFrame#bottomBar {
+    /* background-color: rgba(125, 125, 125, 100); */
+    background-color: rgba(125, 125, 125, 100);
+    border-radius: 5px;
+    border: none;
+
+}

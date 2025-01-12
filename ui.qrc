@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/img/img.png</file>
+        <file>ui/img/close.png</file>
+        <file>ui/img/min.png</file>
+        <file>ui/img/max.png</file>
+        <file>ui/img/pause.png</file>
+        <file>ui/img/play.png</file>
+        <file>ui/img/openvideo.png</file>
+        <file>ui/style/style.qss</file>
+    </qresource>
+</RCC>
